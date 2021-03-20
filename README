@@ -1,0 +1,3 @@
+Provides an interface for accessing Autumn even when servers are down
+
+Note that this may not update in real-time and not recommend to use
